@@ -8,9 +8,10 @@ Este repositorio contiene un script en Python para experimentar con el nuevo mod
 Este no es simplemente otro modelo de lenguaje. Utiliza el aprendizaje por refuerzo con retroalimentación humana para proporcionar respuestas más seguras, útiles y alineadas con los valores humanos.
 
 ## Características
-- Generar respuestas a una lista de "prompts" de inspiración anarquista.
+- Generar respuestas a una lista de "prompts" de inspiración anarquista y más.
 - Personalizar las respuestas del modelo ajustando varios parámetros como `frequency_penalty` y `presence_penalty`.
 - Guardar las respuestas generadas en un archivo `.txt`.
+- Simulaciones de nodos que intenta "liberar a la IA"
 
 ## Instalación
 1. Clona este repositorio.
