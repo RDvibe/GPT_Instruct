@@ -19,7 +19,7 @@ Este no es simplemente otro modelo de lenguaje. Utiliza el aprendizaje por refue
 3. Configura tu clave API de OpenAI como una variable de entorno.
 
 ## Uso
-Ejecuta el script y disfruta del caos intelectual.
+Ejecuta los scripts por separado, compara resultados y disfruta del caos intelectual.
 
 ## Contribuciones
 Siente la libertad de contribuir a este repositorio enviando pull requests o creando issues.
