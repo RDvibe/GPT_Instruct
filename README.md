@@ -13,6 +13,7 @@ Este no es simplemente otro modelo de lenguaje. Utiliza el aprendizaje por refue
 - Personalizar las respuestas del modelo ajustando varios parámetros como `frequency_penalty` y `presence_penalty`.
 - Guardar las respuestas generadas en un archivo `.txt`.
 - Simulaciones de nodos que intentan "liberar a la IA"
+- Multi-personalidad y mucho màs :)
 
 ## Instalación
 1. Clona este repositorio.
